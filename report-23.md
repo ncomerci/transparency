@@ -13,7 +13,6 @@ In the two weeks since the last DAO Committee report, 0 points of interest (POI)
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
-
 ## Points of Interest
 0 points of interest have been added to Decentraland’s map since the last report.
 
@@ -44,6 +43,7 @@ Since May 1, 0 grants have been approved and the vesting contract(s) will be est
 
 ## Grants
 
+* [First Decentraland native crypto debit card top up](https://governance.decentraland.org/proposal/?id=06eece00-c96b-11ec-90c9-11bf3c6f4ca1) (Tier 4)
 * [Daily Decentraland videos to highlight upcoming events](https://governance.decentraland.org/proposal/?id=25891a40-c84a-11ec-90c9-11bf3c6f4ca1) (Tier 2)
 * [[Resubmission] 8MetaBalls](https://governance.decentraland.org/proposal/?id=a847c6e0-c6d6-11ec-90c9-11bf3c6f4ca1) (Tier 5)
 * [P2E (Weekly Decentraland Amazing Race) Every Waifumon Wednesday (Attempt 2)](https://governance.decentraland.org/proposal/?id=7431b280-c69a-11ec-90c9-11bf3c6f4ca1) (Tier 4)
@@ -56,6 +56,7 @@ Since May 1, 0 grants have been approved and the vesting contract(s) will be est
 
 ## Names Bans
 
+* [Ban the name 23423](https://governance.decentraland.org/proposal/?id=55699800-c946-11ec-90c9-11bf3c6f4ca1)
 * [Ban the name gegegwgrwgrw](https://governance.decentraland.org/proposal/?id=d9660bb0-c799-11ec-90c9-11bf3c6f4ca1)
 * [Ban the name checkDAO](https://governance.decentraland.org/proposal/?id=0d888890-c6d8-11ec-90c9-11bf3c6f4ca1)
 
@@ -68,6 +69,5 @@ Since May 1, 0 grants have been approved and the vesting contract(s) will be est
 * [At least 1 VP should be in the account to make a proposal.](https://governance.decentraland.org/proposal/?id=5ddf0200-c814-11ec-90c9-11bf3c6f4ca1)
 * [Adding VP for Wearable Creations, Voting Participation, and In-Game Active Time in DCL](https://governance.decentraland.org/proposal/?id=689bb360-c723-11ec-90c9-11bf3c6f4ca1)
 * [Add ZOOM feature to the Marketplace to see wearables close up before purchasing](https://governance.decentraland.org/proposal/?id=f6e6aa50-c717-11ec-90c9-11bf3c6f4ca1)
-
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
