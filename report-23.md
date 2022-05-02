@@ -9,12 +9,25 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 0 community polls have passed.
+In the two weeks since the last DAO Committee report, 2 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 0 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
+
 ## Points of Interest
-0 points of interest have been added to Decentraland’s map since the last report.
+2 points of interest have been added to Decentraland’s map since the last report.
+
+
+#### 144, -14: [DCL Real Estate Office - www.DclRealEstate.org](https://governance.decentraland.org/proposal/?id=f26d0d80-c400-11ec-86b8-5dac6b550fc4)
+
+* Yes 100% 1,700,016 VP (18 votes)
+* No 0% 0 VP (0 votes)
+
+
+#### -130, 15: [Exclusive FASHION STREET &amp; ROAD! (-130,15) +Free NFT Gallery! @Klockmann#3349 on Discord for details - DCL Real Estate HQ Office - www.DCLRealEstate.org](https://governance.decentraland.org/proposal/?id=97042c80-c400-11ec-86b8-5dac6b550fc4)
+
+* Yes 99% 1,271,916 VP (15 votes)
+* No 0% 100 VP (1 votes)
 
 
 ## Name Bans
@@ -38,8 +51,6 @@ Since May 1, 0 grants have been approved and the vesting contract(s) will be est
 
 * 86, 35: [CV Tower](https://governance.decentraland.org/proposal/?id=45947970-c82b-11ec-90c9-11bf3c6f4ca1)
 * -38, -106: [Union Tower](https://governance.decentraland.org/proposal/?id=60437250-c829-11ec-90c9-11bf3c6f4ca1)
-* 144, -14: [DCL Real Estate Office - www.DclRealEstate.org](https://governance.decentraland.org/proposal/?id=f26d0d80-c400-11ec-86b8-5dac6b550fc4)
-* -130, 15: [Exclusive FASHION STREET &amp; ROAD! (-130,15) +Free NFT Gallery! @Klockmann#3349 on Discord for details - DCL Real Estate HQ Office - www.DCLRealEstate.org](https://governance.decentraland.org/proposal/?id=97042c80-c400-11ec-86b8-5dac6b550fc4)
 
 ## Grants
 
@@ -69,5 +80,6 @@ Since May 1, 0 grants have been approved and the vesting contract(s) will be est
 * [At least 1 VP should be in the account to make a proposal.](https://governance.decentraland.org/proposal/?id=5ddf0200-c814-11ec-90c9-11bf3c6f4ca1)
 * [Adding VP for Wearable Creations, Voting Participation, and In-Game Active Time in DCL](https://governance.decentraland.org/proposal/?id=689bb360-c723-11ec-90c9-11bf3c6f4ca1)
 * [Add ZOOM feature to the Marketplace to see wearables close up before purchasing](https://governance.decentraland.org/proposal/?id=f6e6aa50-c717-11ec-90c9-11bf3c6f4ca1)
+
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
