@@ -13,6 +13,7 @@ In the two weeks since the last DAO Committee report, 2 points of interest (POI)
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
+
 ## Points of Interest
 2 points of interest have been added to Decentraland’s map since the last report.
 
@@ -25,8 +26,8 @@ In the two weeks since the last DAO Committee report, 2 points of interest (POI)
 
 #### -130, 15: [Exclusive FASHION STREET &amp; ROAD! (-130,15) +Free NFT Gallery! @Klockmann#3349 on Discord for details - DCL Real Estate HQ Office - www.DCLRealEstate.org](https://governance.decentraland.org/proposal/?id=97042c80-c400-11ec-86b8-5dac6b550fc4)
 
-* Yes 99.99213846366712% 1,271,916 VP (15 votes)
-* No 0.007861536332876316% 100 VP (1 votes)
+* Yes 99% 1,271,916 VP (15 votes)
+* No 0% 100 VP (1 votes)
 
 
 ## Name Bans
@@ -43,14 +44,14 @@ Since May 1, 3 grants have been approved and the vesting contract(s) will be est
 
 #### [Daily Decentraland videos to highlight upcoming events](https://governance.decentraland.org/proposal/?id=25891a40-c84a-11ec-90c9-11bf3c6f4ca1) (Tier 2)
 
-* Yes 96.83277877474214% 1,187,655 VP (31 votes)
-* No 3.167221225257868% 38,846 VP (4 votes)
+* Yes 96% 1,187,655 VP (31 votes)
+* No 3% 38,846 VP (4 votes)
 
 
 #### [Decentral Comedy presents STREAM-X - 4 DAYS/96 HOURS of COMEDY in DECENTRALAND!](https://governance.decentraland.org/proposal/?id=ec8fc0a0-c31b-11ec-86b8-5dac6b550fc4) (Tier 4)
 
-* Yes 99.30497042222254% 4,790,868 VP (30 votes)
-* No 0.69502957777746% 33,531 VP (1 votes)
+* Yes 99% 4,790,868 VP (30 votes)
+* No 0% 33,531 VP (1 votes)
 
 
 #### [The Uncensored Library in Decentraland](https://governance.decentraland.org/proposal/?id=efddde80-bf1b-11ec-86b8-5dac6b550fc4) (Tier 4)
@@ -70,9 +71,9 @@ Since May 1, 3 grants have been approved and the vesting contract(s) will be est
 
 #### [At least 1 VP should be in the account to make a proposal.](https://governance.decentraland.org/proposal/?id=5ddf0200-c814-11ec-90c9-11bf3c6f4ca1)
 
-* 1 vp should be required to make proposals 89.54256420597821% 959,111 VP (27 votes)
+* 1 vp should be required to make proposals 89% 959,111 VP (27 votes)
 * No vote power should be requited 0% 0 VP (1 votes)
-* Invalid question/options 10.457435794021789% 112,012 VP (2 votes)
+* Invalid question/options 10% 112,012 VP (2 votes)
 
 
 
@@ -80,7 +81,7 @@ Since May 1, 3 grants have been approved and the vesting contract(s) will be est
 
 ## Points of Interest
 
-* 85, -139: [EscapeRank 85,-139](https://governance.decentraland.org/proposal/?id=e060af50-cee8-11ec-8d87-ddbb20320020)
+* 85, -139: [EscapeRoom](https://governance.decentraland.org/proposal/?id=e060af50-cee8-11ec-8d87-ddbb20320020)
 * 6, -125: [Great location in the south](https://governance.decentraland.org/proposal/?id=31b53bc0-ce4c-11ec-8d87-ddbb20320020)
 * -147, 23: [The FMF365 Office Building](https://governance.decentraland.org/proposal/?id=220fd4a0-ccc1-11ec-8d87-ddbb20320020)
 * 14, 14: [Statue Of Liberty](https://governance.decentraland.org/proposal/?id=3bc28420-cbb7-11ec-90c9-11bf3c6f4ca1)
@@ -109,5 +110,6 @@ Since May 1, 3 grants have been approved and the vesting contract(s) will be est
 ## Polls
 
 * [Extend Name length](https://governance.decentraland.org/proposal/?id=242e4880-ce19-11ec-8d87-ddbb20320020)
+
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
