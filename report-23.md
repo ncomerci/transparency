@@ -110,6 +110,8 @@ Since May 1, 7 grants have been approved and the vesting contract(s) will be est
 
 ## Points of Interest
 
+* -74, 53: [District X](https://governance.decentraland.org/proposal/?id=5bf3fd70-d4a2-11ec-b521-2f98ffa6ccb0)
+* -85, 60: [District X](https://governance.decentraland.org/proposal/?id=e31b8ee0-d4a1-11ec-b521-2f98ffa6ccb0)
 * 85, -139: [EscapeRoom](https://governance.decentraland.org/proposal/?id=ababd8d0-d360-11ec-b521-2f98ffa6ccb0)
 * -131, -142: [No Name](https://governance.decentraland.org/proposal/?id=1a581540-d128-11ec-ad28-1f8828797f44)
 
@@ -122,7 +124,6 @@ Since May 1, 7 grants have been approved and the vesting contract(s) will be est
 * [Pacific Cliffs Foundation Campaign to #SavetheCliffHouse with Community run DAO](https://governance.decentraland.org/proposal/?id=d7ee5a30-cd07-11ec-8d87-ddbb20320020) (Tier 4)
 * [MAD DAO - Radical Public Lease and Advertisement Bundle Auction Protocol](https://governance.decentraland.org/proposal/?id=913a1b90-cc05-11ec-8d87-ddbb20320020) (Tier 5)
 * [Impression analytics dashboard for billboards and NFT surfaces.](https://governance.decentraland.org/proposal/?id=435d0c40-cbea-11ec-8d87-ddbb20320020) (Tier 4)
-* [First Decentraland native crypto debit card top up](https://governance.decentraland.org/proposal/?id=06eece00-c96b-11ec-90c9-11bf3c6f4ca1) (Tier 4)
 
 ## Names Bans
 
