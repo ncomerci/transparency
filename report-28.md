@@ -9,12 +9,18 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 1 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 2 community polls have passed.
+In the two weeks since the last DAO Committee report, 2 points of interest (POI) have been added to the Decentraland map, 0 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 2 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
 ## Points of Interest
-1 points of interest have been added to Decentraland’s map since the last report.
+2 points of interest have been added to Decentraland’s map since the last report.
+
+
+#### 54, 103: [Voltaire Art Space 2](https://governance.decentraland.org/proposal/?id=4a97d3b0-017c-11ed-8f44-ef1722f0509f)
+
+* Yes 99.90373932108093% 639,313 VP (32 votes)
+* No 0.09626067891906759% 616 VP (1 votes)
 
 
 #### 103, 150: [AETHERIAN project](https://governance.decentraland.org/proposal/?id=34a8afc0-ffb0-11ec-8f44-ef1722f0509f)
@@ -57,7 +63,7 @@ Since July 16, 0 grants have been approved and the vesting contract(s) will be e
 
 ## Points of Interest
 
-* 54, 103: [Voltaire Art Space 2](https://governance.decentraland.org/proposal/?id=4a97d3b0-017c-11ed-8f44-ef1722f0509f)
+* -69, 35: [EndoMack](https://governance.decentraland.org/proposal/?id=ca34e810-0726-11ed-8a2f-a1a061d4350b)
 
 ## Grants
 
@@ -68,8 +74,6 @@ Since July 16, 0 grants have been approved and the vesting contract(s) will be e
 * [Exodus: Goodbye World Development](https://governance.decentraland.org/proposal/?id=38896e40-0122-11ed-8f44-ef1722f0509f) (Tier 6)
 * [Partner Support Squad](https://governance.decentraland.org/proposal/?id=f9561670-fdfb-11ec-8fbf-839e0f96469a) (Tier 5)
 * [Decentraland Explorer Mobile App](https://governance.decentraland.org/proposal/?id=73b27280-fd23-11ec-a32a-859962cd3c29) (Tier 4)
-* [Room Zero Japan web 3 &#34;Metaverse School&#34;](https://governance.decentraland.org/proposal/?id=1dc97780-fc18-11ec-a32a-859962cd3c29) (Tier 5)
-* [Direct integration with 3D NFT marketplace for scenes and assets MetaMundo](https://governance.decentraland.org/proposal/?id=6cfbafd0-fbe1-11ec-a32a-859962cd3c29) (Tier 5)
 
 ## Names Bans
 
