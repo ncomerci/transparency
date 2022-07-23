@@ -59,7 +59,6 @@ Since July 16, 1 grants have been approved and the vesting contract(s) will be e
 
 ## Grants
 
-* [Decentraland University Blockchain Club](https://governance.decentraland.org/proposal/?id=d0652510-09ba-11ed-92a2-218eab5ea42b) (Tier 3)
 * [Decentraland&#39;s most popular QuizZone 2.0 🥳](https://governance.decentraland.org/proposal/?id=58233e80-0928-11ed-8306-41196474443d) (Tier 4)
 * [Dungeons &amp; Dragons Metaverse Hub](https://governance.decentraland.org/proposal/?id=a5ae4290-0909-11ed-8306-41196474443d) (Tier 4)
 * [Arabic Youtube Series on Decentraland and The Metaverse](https://governance.decentraland.org/proposal/?id=574344e0-075e-11ed-8a2f-a1a061d4350b) (Tier 2)
