@@ -71,6 +71,7 @@ async function getMembersInfo(addresses: string[], jobId: number) {
     info.push({
       address,
       name,
+      avatar: `https://wearable-preview.decentraland.org/?profile=${address}`,
       ...parseVP(scores)
     })
   }
@@ -99,7 +100,8 @@ async function main() {
     { id: 'manaVP', title: 'MANA VP' },
     { id: 'landVP', title: 'LAND VP' },
     { id: 'namesVP', title: 'NAMES VP' },
-    { id: 'delegatedVP', title: 'Delegated VP' }
+    { id: 'delegatedVP', title: 'Delegated VP' },
+    { id: 'avatar', title: 'Avatar Preview' }
   ])
 }
 
