@@ -1,33 +1,56 @@
 import snapshot from '@snapshot-labs/snapshot.js'
 import Networks from './entities/Networks'
 import { SnapshotSpace } from './interfaces/GovernanceProposal'
-import { STRATEGIES, Vote } from './interfaces/Members'
-import { fetchGraphQL, flattenArray, parseVP, saveToCSV, saveToJSON, splitArray } from './utils'
+import { CATALYSTS, DCLProfile, MemberInfo, STRATEGIES, Vote } from './interfaces/Members'
+import { fetchGraphQL, fetchURL, flattenArray, parseVP, saveToCSV, saveToJSON, splitArray } from './utils'
 
 const MAX_RETRIES = 20
-
-require('dotenv').config()
-
-export interface MemberInfo {
-  address: string
-  totalVP: number
-  manaVP: number
-  landVP: number
-  namesVP: number
-  delegatedVP: number
-}
 
 const space = SnapshotSpace.DCL
 const network = Networks.ETHEREUM.id.toString()
 const blockNumber = 'latest'
 
+async function getDCLNames(addresses: string[], idx = 0) {
+
+  const params = new URLSearchParams()
+
+  for (const address of addresses) {
+    params.append('id', address)
+  }
+
+  const domain = CATALYSTS[idx % CATALYSTS.length]
+  const profiles: DCLProfile[] = await fetchURL(`https://${domain}/lambdas/profiles?${params.toString()}`)
+
+  let result: Record<string, string> = {}
+
+  for (const profile of profiles) {
+    const partialResult = profile.avatars.reduce((acc, curr) => {
+      if (!curr.ethAddress && !curr.userId) {
+        return acc
+      }
+      const address = curr.ethAddress || curr.userId
+      return { ...acc, [address.toLowerCase()]: curr.name }
+    }, {} as Record<string, string>)
+    result = { ...result, ...partialResult }
+  }
+  return result
+}
+
 async function getMembersInfo(addresses: string[], jobId: number) {
   console.log('Started job:', jobId)
   let snapshotScores: { [x: string]: number }[] = []
+  let dclNames: Record<string, string> = {}
   let retries = MAX_RETRIES
   do {
     try {
-      snapshotScores = await snapshot.utils.getScores(space, STRATEGIES, network, addresses, blockNumber)
+      const dividedAddresses = splitArray(addresses, 100)
+      const unresolvedNames = dividedAddresses.map(getDCLNames)
+      const [scores, names] = await Promise.all([
+        snapshot.utils.getScores(space, STRATEGIES, network, addresses, blockNumber),
+        Promise.all(unresolvedNames)
+      ])
+      snapshotScores = scores
+      dclNames = names.reduce((acc, curr) => ({ ...acc, ...curr }), {})
     } catch (e) {
       retries -= 1
       console.log('Error', e)
@@ -39,6 +62,7 @@ async function getMembersInfo(addresses: string[], jobId: number) {
 
   for (const address of addresses) {
     const scores = [0, 0, 0, 0, 0, 0]
+    const name = dclNames[address.toLowerCase()] || ''
 
     for (const idx in snapshotScores) {
       scores[idx] = snapshotScores[idx][address] || 0
@@ -46,6 +70,7 @@ async function getMembersInfo(addresses: string[], jobId: number) {
 
     info.push({
       address,
+      name,
       ...parseVP(scores)
     })
   }
@@ -69,8 +94,7 @@ async function main() {
   saveToJSON('members.json', info)
   saveToCSV('members.csv', info, [
     { id: 'address', title: 'Member' },
-    { id: 'dclName', title: 'DCL Name' },
-    { id: 'ensName', title: 'ENS Name' },
+    { id: 'name', title: 'DCL Name' },
     { id: 'totalVP', title: 'Total VP' },
     { id: 'manaVP', title: 'MANA VP' },
     { id: 'landVP', title: 'LAND VP' },
