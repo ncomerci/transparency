@@ -106,6 +106,5 @@ Since July 16, 2 grants have been approved and the vesting contract(s) will be e
 
 ## Polls
 
-* [Would you support funding Decentraland community operations through loans on Fringe Finance?](https://governance.decentraland.org/proposal/?id=c4fc8f70-13c3-11ed-affb-95d45c2147f8)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*

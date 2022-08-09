@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 5 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 1 community polls have passed.
+In the two weeks since the last DAO Committee report, 0 points of interest (POI) have been added to the Decentraland map, 5 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 2 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -61,6 +61,13 @@ Since August 1, 5 grants have been approved and the vesting contract(s) will be 
 
 ## Polls
 
+#### [Would you support funding Decentraland community operations through loans on Fringe Finance?](https://governance.decentraland.org/proposal/?id=c4fc8f70-13c3-11ed-affb-95d45c2147f8)
+
+* Support funding $MANA community operations on Fringe Finance’s Primary Lending Platform 0.10296861406005621% 819 VP (22 votes)
+* Do not support 74.65237091834426% 593,776 VP (17 votes)
+* Invalid question/options 25.244660467595686% 200,793 VP (10 votes)
+
+
 #### [Process for Establishing Formal Working Groups](https://governance.decentraland.org/proposal/?id=bcf89060-0e5c-11ed-9d53-7b405ea02bcb)
 
 * Yes, I support a process for establishing formal working groups 76.22333852252483% 1,424,820 VP (49 votes)
@@ -100,6 +107,5 @@ Since August 1, 5 grants have been approved and the vesting contract(s) will be 
 
 ## Polls
 
-* [Would you support funding Decentraland community operations through loans on Fringe Finance?](https://governance.decentraland.org/proposal/?id=c4fc8f70-13c3-11ed-affb-95d45c2147f8)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
