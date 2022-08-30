@@ -9,7 +9,7 @@ author: 'decentraland'
 image: /images/banners/governance.png
 ---
 
-In the two weeks since the last DAO Committee report, 1 points of interest (POI) have been added to the Decentraland map, 8 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 3 community polls have passed.
+In the two weeks since the last DAO Committee report, 1 points of interest (POI) have been added to the Decentraland map, 8 grant proposals were approved, 0 names were banned, 0 catalysts have been added to the network, and 1 community polls have passed.
 
 (INTRO: TO BE COMPLETED BY DAO FACILITATOR)
 
@@ -85,20 +85,6 @@ Since August 1, 8 grants have been approved and the vesting contract(s) will be 
 
 ## Polls
 
-#### [Change threshold system to pass a proposal to the difference between YES and NO](https://governance.decentraland.org/proposal/?id=9a237890-17ec-11ed-affb-95d45c2147f8)
-
-* YES 30.944859364934977% 300,724 VP (20 votes)
-* NO 69.05514063506503% 671,082 VP (22 votes)
-* Invalid question/options 0% 0 VP (0 votes)
-
-
-#### [Would you support funding Decentraland community operations through loans on Fringe Finance?](https://governance.decentraland.org/proposal/?id=c4fc8f70-13c3-11ed-affb-95d45c2147f8)
-
-* Support funding $MANA community operations on Fringe Finance’s Primary Lending Platform 0.10296861406005621% 819 VP (22 votes)
-* Do not support 74.65237091834426% 593,776 VP (17 votes)
-* Invalid question/options 25.244660467595686% 200,793 VP (10 votes)
-
-
 #### [Process for Establishing Formal Working Groups](https://governance.decentraland.org/proposal/?id=bcf89060-0e5c-11ed-9d53-7b405ea02bcb)
 
 * Yes, I support a process for establishing formal working groups 76.22333852252483% 1,424,820 VP (49 votes)
@@ -111,21 +97,21 @@ Since August 1, 8 grants have been approved and the vesting contract(s) will be 
 
 ## Points of Interest
 
+* -51, -106: [Gallery 187](https://governance.decentraland.org/proposal/?id=f7fe5c20-2820-11ed-ac99-5bece7edccd0)
 * 49, 88: [Revolution](https://governance.decentraland.org/proposal/?id=c3e88400-24b1-11ed-ac99-5bece7edccd0)
-* 144, -7: [Dice Masters](https://governance.decentraland.org/proposal/?id=ec5b1b10-225d-11ed-b4a9-178eb7bc02f5)
-* -28, 27: [NYGallery](https://governance.decentraland.org/proposal/?id=bde03e30-2219-11ed-b4a9-178eb7bc02f5)
-* -127, 10: [De Mageva à Megève Art Gallery!](https://governance.decentraland.org/proposal/?id=f4db69c0-1fe7-11ed-b53a-bb8ec35d99a0)
 
 ## Grants
 
+* [Community Module: Solitaire](https://governance.decentraland.org/proposal/?id=13e979f0-27dc-11ed-ac99-5bece7edccd0) (Tier 2)
+* [Oroboros landing by DCL Season 1 &amp; 2 / Partenership Coordination 4 vote](https://governance.decentraland.org/proposal/?id=960e72c0-27d5-11ed-ac99-5bece7edccd0) (Tier 2)
+* [Butterfly Prawn Farm](https://governance.decentraland.org/proposal/?id=0c0fbc20-25cb-11ed-ac99-5bece7edccd0) (Tier 5)
+* [Strategy &amp; Finance Squad](https://governance.decentraland.org/proposal/?id=0e747070-2565-11ed-ac99-5bece7edccd0) (Tier 5)
 * [Return to Green](https://governance.decentraland.org/proposal/?id=37c29390-2447-11ed-b4a9-178eb7bc02f5) (Tier 6)
 * [DCL Highlights - Expansion &amp; Long-Term Commitment](https://governance.decentraland.org/proposal/?id=40659800-23eb-11ed-b4a9-178eb7bc02f5) (Tier 4)
 * [An Immersive In-World Marketplace Proposal](https://governance.decentraland.org/proposal/?id=0f9a4300-23c9-11ed-b4a9-178eb7bc02f5) (Tier 6)
 * [Decentral Comedy Promo at Skankfest Vegas/Backstage Access to Skankfest for DCL](https://governance.decentraland.org/proposal/?id=56e0a3b0-2303-11ed-b4a9-178eb7bc02f5) (Tier 5)
 * [DCL Closet - Advanced Backpack Features](https://governance.decentraland.org/proposal/?id=42cc9f20-2239-11ed-b4a9-178eb7bc02f5) (Tier 4)
 * [Wearable Advertising Space Facility &amp; Decentraland Loyalty Points Programme](https://governance.decentraland.org/proposal/?id=465154c0-2157-11ed-b4a9-178eb7bc02f5) (Tier 5)
-* [Royalty-free audio clip library for land builders in Decentraland](https://governance.decentraland.org/proposal/?id=1c31fb10-2119-11ed-b4a9-178eb7bc02f5) (Tier 3)
-* [Nexus Market District Build-Out, Phase 1](https://governance.decentraland.org/proposal/?id=309483d0-1b4b-11ed-96c7-2fa07c6df25b) (Tier 4)
 
 ## Names Bans
 
@@ -135,6 +121,5 @@ Since August 1, 8 grants have been approved and the vesting contract(s) will be 
 
 ## Polls
 
-* [Should Decentraland Names allows for other languages such as Arabic and Mandarin?](https://governance.decentraland.org/proposal/?id=465ff8b0-2231-11ed-b4a9-178eb7bc02f5)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
