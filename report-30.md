@@ -133,21 +133,26 @@ Since August 16, 5 grants have been approved and the vesting contract(s) will be
 
 ## Points of Interest
 
-* -51, -106: [Gallery 187](https://governance.decentraland.org/proposal/?id=f7fe5c20-2820-11ed-ac99-5bece7edccd0)
-* 49, 88: [Revolution](https://governance.decentraland.org/proposal/?id=c3e88400-24b1-11ed-ac99-5bece7edccd0)
+* 150, 65: [AETHERIAN project](https://governance.decentraland.org/proposal/?id=74150ea0-3099-11ed-b361-67b98a1da2c8)
+* 21, 6: [Not Fungible Arts Complex](https://governance.decentraland.org/proposal/?id=1e6e3460-304c-11ed-b361-67b98a1da2c8)
+* -30, -31: [Quontic](https://governance.decentraland.org/proposal/?id=f74bbaa0-3047-11ed-b361-67b98a1da2c8)
+* -55, -34: [SFLMAVEN ](https://governance.decentraland.org/proposal/?id=a77e19a0-2fa2-11ed-b361-67b98a1da2c8)
+* -89, -85: [Canessa&#39;s Place](https://governance.decentraland.org/proposal/?id=1ea12260-2f27-11ed-b361-67b98a1da2c8)
 
 ## Grants
 
-* [Community Module: Solitaire](https://governance.decentraland.org/proposal/?id=13e979f0-27dc-11ed-ac99-5bece7edccd0) (Tier 2)
-* [Oroboros landing by DCL Season 1 &amp; 2 / Partenership Coordination 4 vote](https://governance.decentraland.org/proposal/?id=960e72c0-27d5-11ed-ac99-5bece7edccd0) (Tier 2)
-* [Butterfly Prawn Farm](https://governance.decentraland.org/proposal/?id=0c0fbc20-25cb-11ed-ac99-5bece7edccd0) (Tier 5)
-* [Strategy &amp; Finance Squad](https://governance.decentraland.org/proposal/?id=0e747070-2565-11ed-ac99-5bece7edccd0) (Tier 5)
-* [Return to Green](https://governance.decentraland.org/proposal/?id=37c29390-2447-11ed-b4a9-178eb7bc02f5) (Tier 6)
-* [DCL Highlights - Expansion &amp; Long-Term Commitment](https://governance.decentraland.org/proposal/?id=40659800-23eb-11ed-b4a9-178eb7bc02f5) (Tier 4)
-* [An Immersive In-World Marketplace Proposal](https://governance.decentraland.org/proposal/?id=0f9a4300-23c9-11ed-b4a9-178eb7bc02f5) (Tier 6)
-* [Decentral Comedy Promo at Skankfest Vegas/Backstage Access to Skankfest for DCL](https://governance.decentraland.org/proposal/?id=56e0a3b0-2303-11ed-b4a9-178eb7bc02f5) (Tier 5)
-* [DCL Closet - Advanced Backpack Features](https://governance.decentraland.org/proposal/?id=42cc9f20-2239-11ed-b4a9-178eb7bc02f5) (Tier 4)
-* [Wearable Advertising Space Facility &amp; Decentraland Loyalty Points Programme](https://governance.decentraland.org/proposal/?id=465154c0-2157-11ed-b4a9-178eb7bc02f5) (Tier 5)
+* [Expanding Ethermon District RPG Play-to-Earn Gameplay [Guilds, Quests &amp; PvP]](https://governance.decentraland.org/proposal/?id=cb035b60-3146-11ed-b361-67b98a1da2c8) (Tier 6)
+* [DigifunDAO：Introduce more designers into DCL](https://governance.decentraland.org/proposal/?id=6d557e30-305b-11ed-b361-67b98a1da2c8) (Tier 2)
+* [Temple](https://governance.decentraland.org/proposal/?id=7f3dbf70-3030-11ed-b361-67b98a1da2c8) (Tier 4)
+* [EDUCATIONAL RADIO  PROGRAMMES AND  SEMINARS ON DECENTRALAND.](https://governance.decentraland.org/proposal/?id=13ae79a0-3028-11ed-b361-67b98a1da2c8) (Tier 1)
+* [Building San Fransisco City Hall for weddings in Decentraland](https://governance.decentraland.org/proposal/?id=efa07010-2f58-11ed-b361-67b98a1da2c8) (Tier 2)
+* [Building City Hall Sand Francisco for wedding ceremonis in Decentraland](https://governance.decentraland.org/proposal/?id=285283f0-2f57-11ed-b361-67b98a1da2c8) (Tier 2)
+* [Decentraland NOW - Expansion](https://governance.decentraland.org/proposal/?id=c2432ca0-2f1e-11ed-b361-67b98a1da2c8) (Tier 3)
+* [Create a Phygital environment to unite artists from latam and Decentraland](https://governance.decentraland.org/proposal/?id=9a9c4f70-2e50-11ed-b361-67b98a1da2c8) (Tier 4)
+* [DCL Virtual Library - Gamifying Education](https://governance.decentraland.org/proposal/?id=c7b01920-2e0e-11ed-b361-67b98a1da2c8) (Tier 4)
+* [Dice Masters Development &amp; Expansion](https://governance.decentraland.org/proposal/?id=f67f9bc0-2dfc-11ed-b361-67b98a1da2c8) (Tier 6)
+* [Exodus: Goodbye World Development](https://governance.decentraland.org/proposal/?id=d1802450-2d90-11ed-ac99-5bece7edccd0) (Tier 6)
+* [The mobile game QUANTUMSPACE,  portal  in the NFT Galleryu QUANTUMSPACE in DCL.](https://governance.decentraland.org/proposal/?id=6f57fcd0-2877-11ed-ac99-5bece7edccd0) (Tier 6)
 
 ## Names Bans
 
@@ -157,5 +162,8 @@ Since August 16, 5 grants have been approved and the vesting contract(s) will be
 
 ## Polls
 
+* [Info screens, with jump to parcel function, to increase user traffic and enhance gaming experience. IRL PR on OOH/DOOH screens. 10% of revenue for DL!](https://governance.decentraland.org/proposal/?id=07537850-2faa-11ed-b361-67b98a1da2c8)
+* [Should there be limited time to change voting decision ?](https://governance.decentraland.org/proposal/?id=41a339b0-2ec3-11ed-b361-67b98a1da2c8)
+* [World Wide Analytics](https://governance.decentraland.org/proposal/?id=870755f0-2e36-11ed-b361-67b98a1da2c8)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
