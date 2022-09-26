@@ -121,20 +121,24 @@ Since September 1, 6 grants have been approved and the vesting contract(s) will 
 
 ## Points of Interest
 
+* -25, 103: [Decentraland University](https://governance.decentraland.org/proposal/?id=28d87b70-3b4d-11ed-a2ad-25cde07289d9)
+* 16, 83: [Decentraland Museum](https://governance.decentraland.org/proposal/?id=d19f8880-3b4c-11ed-a2ad-25cde07289d9)
+* 11, 95: [Decentraland Conference Center](https://governance.decentraland.org/proposal/?id=19c7e4b0-3b4b-11ed-a2ad-25cde07289d9)
+* 159, 125: [AETHERIAN project](https://governance.decentraland.org/proposal/?id=7f3d5100-3a46-11ed-a2ad-25cde07289d9)
+* 144, -37: [Federated Reserve Pub](https://governance.decentraland.org/proposal/?id=f1df16a0-3936-11ed-a2f4-07fa9844a05e)
+* 117, -25: [8MetaBalls](https://governance.decentraland.org/proposal/?id=83b7d7d0-3831-11ed-b361-67b98a1da2c8)
 
 ## Grants
 
-* [Introduce New Artists into Decentraland](https://governance.decentraland.org/proposal/?id=92cb8d40-36fe-11ed-b361-67b98a1da2c8) (Tier 2)
-* [Gallery and events space in DCL focused on female creators](https://governance.decentraland.org/proposal/?id=b7cbd4d0-36b6-11ed-b361-67b98a1da2c8) (Tier 2)
+* [Dungeons and Dragons &amp; Decentraland (Demo)](https://governance.decentraland.org/proposal/?id=1117c6c0-3ced-11ed-a2ad-25cde07289d9) (Tier 3)
+* [Continued Development of No-Code Creator Tool for Decentraland](https://governance.decentraland.org/proposal/?id=c9aa8040-3c09-11ed-a2ad-25cde07289d9) (Tier 6)
+* [Virtual Street Team](https://governance.decentraland.org/proposal/?id=b328a6d0-3b7d-11ed-a2ad-25cde07289d9) (Tier 4)
+* [Duel Arena P2E; Turn Based RPG | Play to Earn](https://governance.decentraland.org/proposal/?id=75401e40-3b67-11ed-a2ad-25cde07289d9) (Tier 4)
+* [[RESUBMISSION] EDUCATIONAL RADIO PROGRAMMES AND SEMINARS ON DECENTRALAND.](https://governance.decentraland.org/proposal/?id=2f547e70-3a73-11ed-a2ad-25cde07289d9) (Tier 1)
+* [NFT Lands delegation in the WakeUp dApp (+ Decentraland DAO earns royalty fees)](https://governance.decentraland.org/proposal/?id=68a96ab0-3900-11ed-a2f4-07fa9844a05e) (Tier 3)
+* [A  Multi-disciplinary Platform to Onboard the Biggest Arts &amp; Entertainment Names](https://governance.decentraland.org/proposal/?id=52de9bf0-3816-11ed-b361-67b98a1da2c8) (Tier 5)
 * [Deployable custom NFT shop &amp; dashboard for land owners &amp; operators](https://governance.decentraland.org/proposal/?id=67885a20-34a9-11ed-b361-67b98a1da2c8) (Tier 4)
 * [NFT World City Games and Comedy Club](https://governance.decentraland.org/proposal/?id=479bbd40-346a-11ed-b361-67b98a1da2c8) (Tier 5)
-* [Info screens, with jump to parcel function. IRL PR. 10% of revenue for DL.](https://governance.decentraland.org/proposal/?id=71b1f7f0-3273-11ed-b361-67b98a1da2c8) (Tier 2)
-* [Expanding Ethermon District RPG Play-to-Earn Gameplay [Guilds, Quests &amp; PvP]](https://governance.decentraland.org/proposal/?id=cb035b60-3146-11ed-b361-67b98a1da2c8) (Tier 6)
-* [Temple](https://governance.decentraland.org/proposal/?id=7f3dbf70-3030-11ed-b361-67b98a1da2c8) (Tier 4)
-* [Create a Phygital environment to unite artists from latam and Decentraland](https://governance.decentraland.org/proposal/?id=9a9c4f70-2e50-11ed-b361-67b98a1da2c8) (Tier 4)
-* [DCL Virtual Library - Gamifying Education](https://governance.decentraland.org/proposal/?id=c7b01920-2e0e-11ed-b361-67b98a1da2c8) (Tier 4)
-* [Dice Masters Development &amp; Expansion](https://governance.decentraland.org/proposal/?id=f67f9bc0-2dfc-11ed-b361-67b98a1da2c8) (Tier 6)
-* [Exodus: Goodbye World Development](https://governance.decentraland.org/proposal/?id=d1802450-2d90-11ed-ac99-5bece7edccd0) (Tier 6)
 
 ## Names Bans
 
@@ -144,6 +148,6 @@ Since September 1, 6 grants have been approved and the vesting contract(s) will 
 
 ## Polls
 
-* [Increase Skin/ Full Character Category testing server upload size from 2MB to 8MB](https://governance.decentraland.org/proposal/?id=7e8c2640-37d1-11ed-b361-67b98a1da2c8)
+* [Do Decentraland needs native car system ?](https://governance.decentraland.org/proposal/?id=c54320b0-3cc8-11ed-a2ad-25cde07289d9)
 
 *For questions or comments please contact the DAO Facilitator, Matimio (Discord: Matimio#4673; Email: [Matimio@decentraland.org](mailto:Matimio@decentraland.org))*
