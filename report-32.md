@@ -147,6 +147,9 @@ Since September 16, 6 grants have been approved and the vesting contract(s) will
 
 ## Grants
 
+* [A Book to introduce DCL to Chinese People, Lift DCL Fame &amp; Open the 1.4B Market](https://governance.decentraland.org/proposal/?id=847247f0-4547-11ed-9eb2-21be7ab68113) (Tier 4)
+* [Business Reviews, Scam Prevention, Security Help &amp; Registries [Trust In DCL]](https://governance.decentraland.org/proposal/?id=8f170b00-4547-11ed-9eb2-21be7ab68113) (Tier 4)
+* [A Book to introduce DCL to Chinese People, Lift DCL Fame &amp; Open the 1.4B Market](https://governance.decentraland.org/proposal/?id=52f6e460-4547-11ed-9eb2-21be7ab68113) (Tier 4)
 * [Co-Design unique Phygital Fashion &amp; Accessories for Decentraland!  (Amended)](https://governance.decentraland.org/proposal/?id=43bb63a0-43b1-11ed-9eb2-21be7ab68113) (Tier 4)
 * [MetaPartyHub, an immersive Devcon side event to promote Decentraland](https://governance.decentraland.org/proposal/?id=bcd48260-42b9-11ed-9eb2-21be7ab68113) (Tier 2)
 * [Make Decentraland Great Again - MDGA](https://governance.decentraland.org/proposal/?id=5c24e2b0-4125-11ed-9eb2-21be7ab68113) (Tier 4)
@@ -163,6 +166,7 @@ Since September 16, 6 grants have been approved and the vesting contract(s) will
 
 ## Polls
 
+* [Zombieland Problem - Could we rent out empty/unused land automatically?](https://governance.decentraland.org/proposal/?id=e85b7b40-44cc-11ed-9eb2-21be7ab68113)
 * [Make All the Top Charted NFT collections 3D linked wearables skins and helmets in Decentraland.](https://governance.decentraland.org/proposal/?id=5a931460-4370-11ed-9eb2-21be7ab68113)
 * [Restructuring the  Community Grants Program](https://governance.decentraland.org/proposal/?id=e2fbd710-426c-11ed-9eb2-21be7ab68113)
 
